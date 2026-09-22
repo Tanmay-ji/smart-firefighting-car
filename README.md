@@ -7,8 +7,8 @@ An Arduino-based robotic vehicle capable of remote navigation, localized flame d
 ## 📸 Project Showcase
 
 <p align="center">
-  <img src="RC CAR/IMAGES/WhatsApp Image 2026-09-21 at 16.30.15.jpeg" width="45%" alt="Firefighting Car View 1" />
-  <img src="RC CAR/IMAGES/WhatsApp Image 2026-09-21 at 16.30.13.jpeg" width="45%" alt="Firefighting Car View 2" />
+  <img src="RC CAR/IMAGES/WhatsApp Image 2026-09-21 at 16.30.15.jpeg" width="350%" alt="Firefighting Car View 1" />
+  <img src="RC CAR/IMAGES/WhatsApp Image 2026-09-21 at 16.30.13.jpeg" width="350%" alt="Firefighting Car View 2" />
 </p>
 
 ---
